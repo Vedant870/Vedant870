@@ -1,24 +1,32 @@
-### Hi there, I'm Vedant Kasaudhan! 👋
-- 👀 I’m interested in web development, open-source projects, and machine learning.
-- 🌱 I’m currently learning React.js and diving deeper into data structures and algorithms.
-- 💞️ I’m looking to collaborate on open-source projects, especially those that focus on web applications or AI.
-- 📫 How to reach me: vedantkasaudhan0@gmail.com or www.linkedin.com/in/vedant-kasaudhan-9a444a291
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love coding challenges and am an avid chess player!
-- 🎓 **Computer Science Student** specializing in Artificial Intelligence and Machine Learning at Galgotias University.
-- 💡 Passionate about **Web Development**, **Open-Source Contributions**, and **Machine Learning**.
+<h1 align="center">Hi 👋, I'm Vedant</h1>
+<h3 align="center">🚀 B.Tech CSE | AI & ML Enthusiast | GATE Aspirant | Passionate Developer</h3>
 
-
-### 🚀 My Tech Stack:
-`Python` `HTML` `CSS` `Git & GitHub` `C++` `SQL` `Linux`
+- 🔭 I’m currently working on **Web Development + AI Projects**
+- 🌱 I’m learning **DSA, Python, SQL, HTML/CSS, Reverse Engineering**
+- 💡 Exploring **GitHub, Open Source, and Cloud Technologies**
+- 🧠 Actively preparing for **GATE & Core Concepts**
+- 📫 How to reach me: **vedant.yourmail@gmail.com**
+- ⚡ Fun Fact: *I love converting ideas into real-world code solutions.*
 
 ---
 
-### 📊 GitHub Stats:
-![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vedant870&show_icons=true&theme=dark)
+### 🚀 Tech Stack:
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5) 
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) 
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) 
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode)
 
+---
 
-<!---
-Vedant870/Vedant870 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📈 GitHub Stats
+![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vedant870&show_icons=true&theme=tokyonight)
+
+---
+
+### 📌 Quote that inspires me:
+> "Consistency is more important than intensity. Keep building daily." 🚀
+
