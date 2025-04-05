@@ -9,6 +9,15 @@
 - 💡 Passionate about **Web Development**, **Open-Source Contributions**, and **Machine Learning**.
 
 
+### 🚀 My Tech Stack:
+`Python` `HTML` `CSS` `Git & GitHub` `C++` `SQL` `Linux`
+
+---
+
+### 📊 GitHub Stats:
+![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vedant870&show_icons=true&theme=dark)
+
+
 <!---
 Vedant870/Vedant870 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
