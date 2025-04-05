@@ -5,10 +5,8 @@
 - 📫 How to reach me: vedantkasaudhan0@gmail.com or www.linkedin.com/in/vedant-kasaudhan-9a444a291
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love coding challenges and am an avid chess player!
-
--🎓 **Computer Science Student** specializing in Artificial Intelligence and Machine Learning at Galgotias University.
-
--💡 Passionate about **Web Development**, **Open-Source Contributions**, and **Machine Learning**.
+- 🎓 **Computer Science Student** specializing in Artificial Intelligence and Machine Learning at Galgotias University.
+- 💡 Passionate about **Web Development**, **Open-Source Contributions**, and **Machine Learning**.
 
 
 <!---
