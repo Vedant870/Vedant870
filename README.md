@@ -5,7 +5,7 @@
 - 🌱 I’m learning **DSA, Python, SQL, HTML/CSS, Reverse Engineering**
 - 💡 Exploring **GitHub, Open Source, and Cloud Technologies**
 - 🧠 Actively preparing for **GATE & Core Concepts**
-- 📫 How to reach me: **vedant.yourmail@gmail.com**
+- 📫 How to reach me: **vedantkasaudhan0@gmail.com**
 - ⚡ Fun Fact: *I love converting ideas into real-world code solutions.*
 
 ---
