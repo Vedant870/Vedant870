@@ -10,15 +10,12 @@
 
 ---
 
-### 🚀 Tech Stack:
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5) 
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) 
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) 
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode)
+## 🚀 Skills
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![DSA](https://img.shields.io/badge/Data%20Structures-blue?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-green?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
 ---
 
@@ -30,3 +27,28 @@
 ### 📌 Quote that inspires me:
 > "Consistency is more important than intensity. Keep building daily." 🚀
 
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vedant870&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/YOUR_USERNAME/Vedant870/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+![](https://komarev.com/ghpvc/?username=Vedant@870&color=blue)
+
+---
+
+## 📈 Contribution Graph
+
+[![Vedant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vedant870&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+
+---
+
+![Metrics](https://metrics.lecoq.io/Vedant870)
