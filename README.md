@@ -35,16 +35,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/YOUR_USERNAME/Vedant870/blob/output/github-contribution-grid-snake.svg)
-
----
-
-![](https://komarev.com/ghpvc/?username=Vedant@870&color=blue)
-
----
-
 ## 📈 Contribution Graph
 
 [![Vedant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vedant870&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
