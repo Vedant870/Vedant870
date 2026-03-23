@@ -37,6 +37,6 @@
 
 ## 📈 Contribution Graph
 
-[![Vedant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vedant870&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+[![Vedant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vedant870&theme=tokyo-night)](https://github.com/Vedant870)
 
 ---
